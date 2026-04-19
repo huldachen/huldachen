@@ -25,4 +25,4 @@ Currently in 📍SF.
 
 📧 hulda.cyc@gmail.com
 
-🧸 huldacyc.com
+🧸 [huldacyc.com](https://huldacyc.com)
