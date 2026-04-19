@@ -1,4 +1,4 @@
-# Hulda Chen
+# Hulda / Yuchun Chen
 
 Computational biology/chemistry and machine learning. I work at the intersection of statistical modeling, molecular simulation, and biological sequence analysis.
 
