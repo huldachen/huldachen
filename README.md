@@ -1,8 +1,8 @@
 # Hulda Chen
 
-Computational biology and machine learning. I work at the intersection of statistical modeling, molecular simulation, and biological sequence analysis.
+Computational biology/chemistry and machine learning. I work at the intersection of statistical modeling, molecular simulation, and biological sequence analysis.
 
-Currently in SF.
+Currently in 📍SF.
 
 ## Selected projects
 
@@ -23,3 +23,4 @@ Currently in SF.
 ## Contact
 
 📧 hulda.cyc@gmail.com
+🧸 huldacyc.com
