@@ -6,11 +6,11 @@ Currently in 📍SF.
 
 ## Selected projects
 
-- **[antibody-plm-benchmark](https://github.com/YOUR_USERNAME/antibody-plm-benchmark)** — Benchmarking protein language models (ESM-2, AbLang, AntiBERTy) against BLOSUM62 for predicting variant fitness in combinatorial CDR-H3 libraries. Key finding: mutation count alone outperforms all PLMs after controlling for confounds.
+- **[antibody-plm-benchmark](https://github.com/huldachen/antibody-plm-benchmark)** — Benchmarking protein language models (ESM-2, AbLang, AntiBERTy) against BLOSUM62 for predicting variant fitness in combinatorial CDR-H3 libraries. Key finding: mutation count alone outperforms all PLMs after controlling for confounds.
 
-- **[peak2gene-benchmark](https://github.com/YOUR_USERNAME/peak2gene-benchmark)** — Comparing five peak–gene linkage methods on single-cell colon multi-omics, evaluated by IBD GWAS heritability enrichment via stratified LD-score regression. Paired multiome correlation concentrates heritability 10–21× in <0.5% of SNPs.
+- **[peak2gene-benchmark](https://github.com/huldachen/peak2gene-benchmark)** — Comparing five peak–gene linkage methods on single-cell colon multi-omics, evaluated by IBD GWAS heritability enrichment via stratified LD-score regression. Paired multiome correlation concentrates heritability 10–21× in <0.5% of SNPs.
 
-- **[amazon-multimethod-occupancy](https://github.com/YOUR_USERNAME/amazon-multimethod-occupancy)** — Hierarchical Bayesian occupancy modeling integrating camera traps, eDNA, line transects, and acoustic surveys across 12 transects in the Brazilian Amazon to assess how Brazil nut harvesting affects wildlife biodiversity.
+- **[amazon-multimethod-occupancy](https://github.com/hulkdachen/amazon-multimethod-occupancy)** — Hierarchical Bayesian occupancy modeling integrating camera traps, eDNA, line transects, and acoustic surveys across 12 transects in the Brazilian Amazon to assess how Brazil nut harvesting affects wildlife biodiversity.
 
 ## Publications
 
