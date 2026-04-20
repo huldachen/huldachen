@@ -24,5 +24,5 @@ Currently in 📍SF.
 ## Contact
 
 📧 hulda.cyc@gmail.com
-
-🧸 [huldacyc.com](https://huldacyc.com)
+🧬 linkedin [https://www.linkedin.com/in/yuchun-huldachen/]=
+🌐 [huldacyc.com](https://huldacyc.com)
