@@ -10,7 +10,7 @@ Currently in 📍SF.
 
 - **[peak2gene-benchmark](https://github.com/huldachen/peak2gene-benchmark)** — Comparing five peak–gene linkage methods on single-cell colon multi-omics, evaluated by IBD GWAS heritability enrichment via stratified LD-score regression. Paired multiome correlation concentrates heritability 10–21× in <0.5% of SNPs.
 
-- **[amazon-multimethod-occupancy](https://github.com/hulkdachen/amazon-multimethod-occupancy)** — Hierarchical Bayesian occupancy modeling integrating camera traps, eDNA, line transects, and acoustic surveys across 12 transects in the Brazilian Amazon to assess how Brazil nut harvesting affects wildlife biodiversity.
+- **[amazon-multimethod-occupancy](https://github.com/huldachen/amazon-multimethod-occupancy)** — Hierarchical Bayesian occupancy modeling integrating camera traps, eDNA, line transects, and acoustic surveys across 12 transects in the Brazilian Amazon to assess how Brazil nut harvesting affects wildlife biodiversity.
 
 ## Publications
 
