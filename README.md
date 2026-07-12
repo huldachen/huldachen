@@ -6,7 +6,7 @@ Currently in 📍SF.
 
 ## Selected projects
 
-- **[antibody-plm-benchmark](https://github.com/huldachen/antibody-plm-benchmark)** — Benchmarking protein language models (ESM-2, AbLang, AntiBERTy) against BLOSUM62 for predicting variant fitness in combinatorial CDR-H3 libraries. Key finding: mutation count alone outperforms all PLMs after controlling for confounds.
+- **[antibody-plm-benchmark](https://github.com/huldachen/antibody-plm-benchmark)** — No PLM, inverse-folding model, or low-N regressor robustly beats a mutation counter at retrieving antibody affinity improvers. I designed an evaluation protocol (distance-aware splits, budget-matched precision@K, improver-tier separation) that exposes failure modes standard benchmarks conceal.
 
 - **[peak2gene-benchmark](https://github.com/huldachen/peak2gene-benchmark)** — Comparing five peak–gene linkage methods on single-cell colon multi-omics, evaluated by IBD GWAS heritability enrichment via stratified LD-score regression. Paired multiome correlation concentrates heritability 10–21× in <0.5% of SNPs.
 
