@@ -2,7 +2,7 @@
 
 Computational biology/chemistry and machine learning. I work at the intersection of statistical modeling, molecular simulation, and comp-bio/chem  analysis.
 
-Currently in 📍Bay Area, open to 
+Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
 
 ## Selected projects
 
