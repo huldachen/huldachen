@@ -7,11 +7,11 @@ Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
 ## Selected projects
 
 - **[antibody-plm-benchmark](https://github.com/huldachen/antibody-plm-benchmark)** — No PLM, inverse-folding model, or low-N regressor robustly beats a mutation counter at retrieving antibody affinity improvers. I designed an evaluation protocol (distance-aware splits, budget-matched precision@K, improver-tier separation) that exposes failure modes standard benchmarks conceal.
+- If more interested in MHC: https://github.com/huldachen/immune-receptor-eval
 
 - **[peak2gene-benchmark](https://github.com/huldachen/peak2gene-benchmark)** — Comparing five peak–gene linkage methods on single-cell colon multi-omics, evaluated by IBD GWAS heritability enrichment via stratified LD-score regression. Paired multiome correlation concentrates heritability 10–21× in <0.5% of SNPs.
 
 - **[amazon-multimethod-occupancy](https://github.com/huldachen/amazon-multimethod-occupancy)** — Hierarchical Bayesian occupancy modeling integrating camera traps, eDNA, line transects, and acoustic surveys across 12 transects in the Brazilian Amazon to assess how Brazil nut harvesting affects wildlife biodiversity.
-- 
 
 ## Publications
 
