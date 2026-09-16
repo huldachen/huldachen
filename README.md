@@ -36,7 +36,6 @@ Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
 - Yang, J.G., Chen, H.Y.‡, Guardado, J.H.‡, Gardner, M., Foronda, M.S. "Two Stages of Substrate Discrimination Dictate Selectivity in the E. coli MetNI-Q ABC Transporter System." *J. Biol. Chem.*, 2025. [[paper]](https://doi.org/10.1016/j.jbc.2025.108672)
 - Kamath, G., Illarionov, A., ..., Chen, Y., ..., Kornberg, R.D., Levitt, M., Fain, B. "Combining Force Fields and Neural Networks for an Accurate Representation of Bonded Interactions." *J. Phys. Chem. A*, 2024. [[paper]](https://doi.org/10.1021/acs.jpca.3c06781)
 - Kurnikov, I.V., Pereyaslavets, L., ..., Chen, Y., ..., Kornberg, R.D., Levitt, M., Fain, B. "Neural Network Corrections to Intermolecular Interaction Terms of a Molecular Force Field Capture Nuclear Quantum Effects in Calculations of Liquid Thermodynamic Properties." *J. Chem. Theory Comput.*, 2024. [[paper]](https://doi.org/10.1021/acs.jctc.3c01339)
-- Chen, Y., Yang, J.G. "Mechanisms of Substrate Selectivity and Transport by a Bacterial Methionine ABC Importer." *FASEB J.*, 2022.
 - Chen, Y.-C. et al. "Revisiting 3D Context Modeling with Supervised Pre-training for Universal Lesion Detection in CT Slices." *MICCAI*, 2020. [[paper]](https://arxiv.org/abs/2012.08770)
 
 ## Contact
