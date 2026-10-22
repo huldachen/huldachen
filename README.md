@@ -10,13 +10,15 @@ Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
   No PLM, inverse-folding model, or low-N regressor robustly outperforms mutation
   count at retrieving antibody affinity improvers. Evaluation protocol uses
   distance-aware splits and budget-matched precision@K to expose failure modes
-  standard benchmarks conceal.
+  standard benchmarks conceal. Fine-tuning does not rescue it: LoRA-tuned
+  ESM-2-650M (0.901 test ROC-AUC) ties a logistic regression and loses to a
+  128-unit MLP on one-hot features (0.920).
 
 - **[immune-receptor-eval](https://github.com/huldachen/immune-receptor-eval)** —
-  V-gene + CDR3β length alone reach 0.788 per-epitope AUROC on TCR–pMHC
-  discrimination without seeing the peptide — the interaction-free baseline any
-  TCR binding model must beat. Same diagnostic procedure as above, different
-  receptor system.
+  V-gene + CDR3β length alone reach 0.788 mean per-epitope AUROC on TCR–pMHC
+  discrimination without seeing the peptide (28 epitopes, 95% CI 0.763–0.814;
+  0.487 under label permutation) — the interaction-free baseline any TCR binding
+  model must beat. Same diagnostic procedure as above, different receptor system.
 
 - **[peak2gene-benchmark](https://github.com/huldachen/peak2gene-benchmark)** —
   Head-to-head benchmark of six peak–gene linkage methods on a colon single-cell
