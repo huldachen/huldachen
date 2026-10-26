@@ -11,8 +11,10 @@ Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
   count at retrieving antibody affinity improvers. Evaluation protocol uses
   distance-aware splits and budget-matched precision@K to expose failure modes
   standard benchmarks conceal. Fine-tuning does not rescue it: LoRA-tuned
-  ESM-2-650M (0.901 test ROC-AUC) ties a logistic regression and loses to a
-  128-unit MLP on one-hot features (0.920).
+  ESM-2-650M ties a logistic regression and loses to a 128-unit MLP on 200
+  one-hot features — under both a random split and a leakage-free distance-aware
+  one (paired DeLong, p = 1×10⁻⁷), with the PLM losing the most accuracy when
+  near-duplicate leakage is removed.
 
 - **[immune-receptor-eval](https://github.com/huldachen/immune-receptor-eval)** —
   V-gene + CDR3β length alone reach 0.788 mean per-epitope AUROC on TCR–pMHC
