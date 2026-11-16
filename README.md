@@ -7,14 +7,15 @@ Currently in 📍Bay Area, Solving Challenges in Chemistry & Biology
 ## Selected projects
 
 - **[antibody-plm-benchmark](https://github.com/huldachen/antibody-plm-benchmark)** —
-  No PLM, inverse-folding model, or low-N regressor robustly outperforms mutation
-  count at retrieving antibody affinity improvers. Evaluation protocol uses
-  distance-aware splits and budget-matched precision@K to expose failure modes
-  standard benchmarks conceal. Fine-tuning does not rescue it: LoRA-tuned
-  ESM-2-650M ties a logistic regression and loses to a 128-unit MLP on 200
-  one-hot features — under both a random split and a leakage-free distance-aware
-  one (paired DeLong, p = 1×10⁻⁷), with the PLM losing the most accuracy when
-  near-duplicate leakage is removed.
+  No *zero-shot* PLM, inverse-folding model, or low-N regressor beats counting
+  mutations at retrieving antibody affinity improvers — a result that only
+  appears under distance-aware splits, budget-matched precision@K, and
+  tier-separated positive sets. Supervision *does* fix the anti-prediction
+  (cross-fitted near-improver AUROC 0.45 → 0.90), but the pretrained model
+  contributes none of it: a LoRA-tuned ESM-2-650M is indistinguishable from a
+  logistic regression on 260 one-hot features (paired DeLong, p = 0.995), and
+  across three datasets never beats a cheap sequence encoding — losing outright
+  to a 3-mer ridge on KyDab.
 
 - **[immune-receptor-eval](https://github.com/huldachen/immune-receptor-eval)** —
   V-gene + CDR3β length alone reach 0.788 mean per-epitope AUROC on TCR–pMHC
